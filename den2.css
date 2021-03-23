@@ -1,0 +1,40 @@
+body {
+   background-color: rgb(223, 179, 213);
+}
+
+.main {
+   border: 5px solid hsl(39, 77%, 83%);
+   margin-bottom: 5px;
+   text-align: center;
+}
+
+.main2 {
+   padding-bottom: 20px;
+}
+
+p {
+   text-align: center;
+   font-size: 32px;
+   font-style: italic;
+   color: #f30e0eec;
+   margin-bottom: 5px;
+}
+
+p::first-letter {
+   font-size: 48px;
+   font-weight: 700;
+   color: wheat;
+}
+
+.main3 {
+   border-top: 4px solid rgb(245, 222, 79);
+   border-bottom: 3px solid rgb(246, 222, 88);
+   text-align: center;
+}
+
+/* img { 
+   margin-top: 20px;
+   margin-bottom: 20px;
+   height: 413px;
+   width: 610px;
+} */
